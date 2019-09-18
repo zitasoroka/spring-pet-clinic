@@ -42,7 +42,7 @@
         <connection>https://github.com/zitasoroka/sfg-pet-clinic.git</connection>
         <developerConnection>scm:git:git@github.com:zitasoroka/sfg-pet-clinic.git</developerConnection>
         <url>https://github.com/zitasoroka/sfg-pet-clinic</url>
-        <tag>HEAD</tag>
+        <tag>sfg-pet-clinic-1.0.6</tag>
   </scm>
 
 </project>
