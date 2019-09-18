@@ -39,8 +39,10 @@
     </build>
 
     <scm>
+        <connection>https://github.com/zitasoroka/sfg-pet-clinic.git</connection>
         <developerConnection>scm:git:git@github.com:zitasoroka/sfg-pet-clinic.git</developerConnection>
-        <tag>sfg-pet-clinic-1.0.2</tag>
+        <url>https://github.com/zitasoroka/sfg-pet-clinic</url>
+        <tag>HEAD</tag>
   </scm>
 
 </project>
